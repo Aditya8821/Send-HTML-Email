@@ -12,5 +12,5 @@ SMTP stands for Simple Mail Transfer Protocol. It provides a mail exchange betwe
 - use send( ) function to send mail
 
 ## Sample Output:
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/Aditya8821/Send-HTML-Email/blob/main/Images/Demo%20Output.png"></p>
 Feedbacks Would Be Welcomed🙌
